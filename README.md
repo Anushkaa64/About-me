@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Web development(node.js and react.js).<br>I have done python basics and MySQL in school.<br>I'm very keen to learn Ai/ML and have a bit of knowledge about Machine learning algorithms.
+I'm currently learning Web development(node.js and react.js). I have made some basic projects using HTML, CSS, JavaScript.<br>I have done python basics and MySQL in school.<br>I'm very keen to learn Ai/ML and make use of ai efficiently.
 
 
 ## 🌐 Socials:
